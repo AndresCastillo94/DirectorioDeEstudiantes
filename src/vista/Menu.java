@@ -142,7 +142,6 @@ public class Menu {
 			
 		}while (entero = false);
 		
-	
 		
 		return dato;
 	}
