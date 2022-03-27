@@ -66,6 +66,7 @@ public class Menu {
 		
 	}
 	
+	
 	public static void imprimirEstudiante(Estudiante estudianteIngresado) {
 		
 		Estudiante estudianteAImprimir = estudianteIngresado;
